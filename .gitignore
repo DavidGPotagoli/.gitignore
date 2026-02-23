@@ -2,3 +2,5 @@ __pycache__/
 *.csv
 .env
 venv/
+git add .gitignore
+git commit -m "Add .gitignore"
